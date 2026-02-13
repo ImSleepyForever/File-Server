@@ -6,7 +6,7 @@ A simple file server with features to upload, download and delete files.
 This is made with python version 3.10.8 <br>
 Download the project either by downloading the zip or from the terminal with:
 ```
-git clone https://github.com/awkwardAndroid/File-Server
+git clone [https://github.com/awkwardAndroid/File-Server](https://github.com/ImSleepyForever/File-Server)
 ```
 
 Then navigate/go to the project folder. <br>
